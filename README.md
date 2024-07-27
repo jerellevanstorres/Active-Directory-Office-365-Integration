@@ -1,4 +1,5 @@
-# Active-Directory-Office-365-Integration# Detailed Setup Guide for Active Directory and Office 365 Integration Lab
+# Active-Directory-Office-365-Integration
+## Detailed Setup Guide for Active Directory and Office 365 Integration Lab
 
 ## Introduction
 This guide provides a step-by-step walkthrough for setting up and integrating Active Directory with Office 365 using Windows Server 2019 and Azure AD Connect. It includes detailed instructions, screenshots, and configuration examples to ensure a smooth setup process.
